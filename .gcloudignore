@@ -1,0 +1,4 @@
+.gcloudignore
+files
+node_modules
+shell.nix

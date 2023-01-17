@@ -1,0 +1,19 @@
+{
+  "name": "secure-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.12.2",
+    "app-root-path": "^3.1.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^110.0.0",
+    "pg": "^8.8.0",
+    "request": "^2.88.2"
+  }
+}
